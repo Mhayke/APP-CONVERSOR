@@ -12,13 +12,14 @@
 
 ## Sobre o repositório
 
-| Arquivo           | Conteúdo                                              |
-|-------------------|-------------------------------------------------------|
-| `README.md`       | Visão geral do repositório e documentação principal   |
-| `HR_D.py`         | CODIGO CONVERSOR DE HORAS PARA DIAS                   |
-| `KM_M.py`         | CODIGO CONVERSOR DE QUILOMETROS PARA METROS           |
-| `M_HR.py`         | CODIGO CONVERSOR DE METROS PARA HORAS                 |
-| `M_KM.py`         | CODIGO CONVERSOR DE METROS PARA QUILOMETROS           |
+| Arquivo           | Conteúdo                                                      |
+|-------------------|---------------------------------------------------------------|
+| `README.md`       | Visão geral do repositório e documentação principal           |
+| `HR_MIN.py`       | CODIGO CONVERSOR DE HORAS PARA MINUTOS                        |
+| `D_HR.py`         | CODIGO CONVERSOR DE DIAS PARA HORAS                           |
+| `KM_M.py`         | CODIGO CONVERSOR DE QUILOMETROS PARA METROS                   |
+| `M_KM.py`         | CODIGO CONVERSOR DE METROS PARA QUILOMETROS                   |
+| `KMH_MPH.py`      | CODIGO CONVERSOR DE QUILOMETROS P/HORAS PARA MILHAS P/HORAS   |
 
 ---
 
