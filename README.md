@@ -23,6 +23,14 @@
 
 ---
 
+## Equipe
+
+| CAIO PACIFICO  |
+| DIEGO GOMES    |
+| MATHEUS DANILO |
+| HALANNA LIMA   |
+| ESTER REGINA   |
+
 ## Licença
 
 Este repositório é de uso educacional, vinculado à Formação Acelerada de Programação (FAP2026) da turma 19.
